@@ -17,7 +17,7 @@ permalink: /about/
 ## 联系
 
 <ul>
-  <li>博客邮箱：<a href="mailto:1534014218@qq.com">your-email@example.com</a></li>
+  <li>博客邮箱：<a href="mailto:your-email@example.com">1534014218@qq.com</a></li>
   <li>博客用户名：@Dingchunjiang</li>
   <!-- 如果有其他联系方式，可以继续添加 -->
 </ul>
