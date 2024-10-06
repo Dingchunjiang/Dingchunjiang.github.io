@@ -1,32 +1,29 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 技术宅改变世界
+keywords: Chunjiang Ding,丁春江
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是丁春江，求索于技术的深海。
 
 仰慕「优雅编码的艺术」。
 
-坚信熟能生巧，努力改变人生。
+相信技术宅将改变世界，编写未来。
 
 ## 联系
 
 <ul>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
+  <li>博客邮箱：<a href="mailto:1534014218@qq.com">your-email@example.com</a></li>
+  <li>博客用户名：@Dingchunjiang</li>
+  <!-- 如果有其他联系方式，可以继续添加 -->
 </ul>
+
+
+
 
 
 ## Skill Keywords
