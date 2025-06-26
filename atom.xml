@@ -6,7 +6,7 @@
   <link href="https://www.myblog.com/atom.xml" rel="self"/>
   
   <link href="https://www.myblog.com/"/>
-  <updated>2025-06-25T07:06:16.582Z</updated>
+  <updated>2025-06-26T21:08:05.562Z</updated>
   <id>https://www.myblog.com/</id>
   
   <author>
@@ -21,8 +21,15 @@
     <link href="https://www.myblog.com/2025/06/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
     <id>https://www.myblog.com/2025/06/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
     <published>2025-06-25T07:06:16.000Z</published>
-    <updated>2025-06-25T07:06:16.582Z</updated>
+    <updated>2025-06-26T21:08:05.562Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="This-is-my-shell’s-language"><a href="#This-is-my-shell’s-language" class="headerlink" title="This is my shell’s language"></a>This is my shell’s language</h1><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">function hexo_install()</span><br><span class="line">&#123;</span><br><span class="line">   hexo init blog</span><br><span class="line">   cd blog  </span><br><span class="line">   cnpm install</span><br><span class="line">   hexo s</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>You can run .&#x2F;install.sh to insatll hexo.<br>If you want to read more massages about hexo, you can read <a href="https://hexo.io/">hexo</a></p><p><img src="https://img95.699pic.com/photo/60053/3463.jpg_wh860.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;This-is-my-shell’s-language&quot;&gt;&lt;a href=&quot;#This-is-my-shell’s-language&quot; class=&quot;headerlink&quot; title=&quot;This is my shell’s language&quot;&gt;&lt;/a&gt;This </summary>
+      
     
     
     
